@@ -1,7 +1,7 @@
 # Guess My Number
 
 
-#### Guess My Number is a simple web app game where the user has to, well, guess my number! Apart from the game itself, the purpose of this project is to sharpen JavaScript DOM manipulation skills.
+Guess My Number is a simple web app game where the user has to, well, guess my number! Apart from the game itself, the purpose of this project is to sharpen JavaScript DOM manipulation skills.
 
 ## Technologies
 - JavaScript
